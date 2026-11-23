@@ -3,8 +3,8 @@
     "type": "drupal-module",
     "require": {
         "drupal/components": "^3",
-        "drupal/pinto": "^0.6",
-        "drupal/pinto_block": "^0.2",
+        "drupal/pinto": "^0.7.0@beta",
+        "drupal/pinto_block": "^0.3.0",
         "previousnext/ds-common": "*",
         "previousnext/ids-tools": "*",
         "nette/utils": "^4.1"
